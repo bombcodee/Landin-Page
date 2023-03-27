@@ -20,7 +20,6 @@ function randomString(){
 function resetTyping(){
   target.textContent = "";
   dynamic(randomString());
-  consiml
 }
 
 // 한글자씪 텍스트 출력
