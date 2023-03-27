@@ -20,6 +20,7 @@ function randomString(){
 function resetTyping(){
   target.textContent = "";
   dynamic(randomString());
+  consiml
 }
 
 // 한글자씪 텍스트 출력
@@ -38,7 +39,7 @@ function resetTyping(){
 
   dynamic(randomString());
 
-  
+
 //Test
 // function dynamic(randomArr){
 //   for(var i =0; i< randomArr.length; i++)
